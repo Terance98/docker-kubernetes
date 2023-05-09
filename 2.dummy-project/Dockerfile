@@ -1,4 +1,4 @@
-FROM node
+FROM node:18
 
 # set the present working directory to /app. All the subseuquent commands will be executed in this particular directory
 WORKDIR /app
